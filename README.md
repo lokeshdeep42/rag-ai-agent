@@ -8,14 +8,14 @@ A production-ready RAG (Retrieval-Augmented Generation) AI Agent that intelligen
 
 ## 📋 Table of Contents
 
-- [Architecture Overview](#architecture-overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Local Setup](#local-setup)
-- [Azure Deployment](#azure-deployment)
-- [API Documentation](#api-documentation)
-- [Design Decisions](#design-decisions)
-- [Limitations & Future Improvements](#limitations--future-improvements)
+- [Architecture Overview](#️-architecture-overview)
+- [Tech Stack](#️-tech-stack)
+- [Features](#-features)
+- [Local Setup](#-local-setup)
+- [Azure Deployment](#️-azure-deployment)
+- [API Documentation](#-api-documentation)
+- [Design Decisions](#-design-decisions)
+- [Limitations & Future Improvements](#️-limitations--future-improvements)
 
 ---
 
@@ -607,4 +607,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - LangChain for RAG utilities
 - FAISS for vector similarity search
 
----  
+---
